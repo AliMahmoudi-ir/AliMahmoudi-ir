@@ -1,6 +1,8 @@
 <h1 align="center">Hi dear👋, I'm Ali Mahmoudi</h1>
 <h3 align="center">A passionate full stack developer from Iran</h3>
-<img align="right" alt="AliMahmoudi" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"> 
+
+<img align="right" alt="AliMahmoudi" width="400px" src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimahmoudi-ir&label=Profile%20views&color=0e75b6&style=flat" alt="alimahmoudi-ir" /> </p>
 
 - 🌱 I’m currently learning **C#, js, Software expertise, web✌️**
